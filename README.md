@@ -1,5 +1,9 @@
-# 30DaysOfMySQL
+# 30DaysOfSQL
 
-MySQL is a popular open-source relational database management system (RDBMS) that is used to manage and store structured data. It uses Structured Query Language (SQL) to interact with the database, which allows users to create, modify, and manage databases and tables, as well as query and manipulate data.
+SQL stands for Structured Query Language and it is a programming language used to manage and manipulate relational databases. SQL is used to create, modify, and query databases to retrieve, add, update, or delete data stored in them.
 
-MySQL is widely used by developers and businesses for various purposes, such as building web applications, content management systems, and e-commerce platforms. It is known for its reliability, scalability, and ease of use, and it is compatible with various operating systems, including Windows, Linux, and macOS. MySQL also supports multiple programming languages, including PHP, Java, and Python, making it a popular choice for developers building applications in those languages.
+In SQL, you can create tables, which are collections of data organized into rows and columns. You can add data to these tables, modify the data already in them, or delete data that is no longer needed.
+
+SQL also allows you to retrieve data from one or more tables using various commands such as SELECT, WHERE, JOIN, GROUP BY, and ORDER BY. You can use these commands to filter data based on specific criteria, combine data from multiple tables, perform calculations, and sort the data in a specific order.
+
+SQL is a standard language that is widely used by database administrators, data analysts, and developers across various industries. Its versatility, simplicity, and efficiency make it a popular choice for managing data and performing complex data analysis.
