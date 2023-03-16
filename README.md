@@ -1,4 +1,4 @@
-# 30DaysOfSQL
+# IntroToSQL
 
 SQL stands for Structured Query Language and it is a programming language used to manage and manipulate relational databases. SQL is used to create, modify, and query databases to retrieve, add, update, or delete data stored in them.
 
